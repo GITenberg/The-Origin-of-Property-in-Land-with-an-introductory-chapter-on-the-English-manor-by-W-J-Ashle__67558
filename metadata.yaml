@@ -1,0 +1,45 @@
+_repo: The-Origin-of-Property-in-Land-with-an-introductory-chapter-on-the-English-manor-by-W-J-Ashle__67558
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Ashley, W. J.
+    gutenberg_agent_id: '54320'
+    url: http://www.gutenberg.org/2009/agents/54320
+  translator:
+    agent_name: Ashley, Margaret
+    gutenberg_agent_id: '54319'
+    url: http://www.gutenberg.org/2009/agents/54319
+creator:
+  author:
+    agent_name: Fustel de Coulanges
+    aliases:
+    - Coulanges, Numa Denis de
+    - Fustel de Coulanges, Numa Denys
+    - Coulanges, Fustel de
+    birthdate: 1830
+    deathdate: 1889
+    gutenberg_agent_id: '2627'
+    url: http://www.gutenberg.org/2009/agents/2627
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Numa_Denis_Fustel_de_Coulanges
+    - https://fr.wikipedia.org/wiki/Numa_Denis_Fustel_de_Coulanges
+description: ''
+gutenberg_issued: '2022-03-04'
+identifiers:
+  gutenberg: '67558'
+language: en
+pgterms:marc904: https://archive.org/details/originofproperty00fustuoft
+pgterms:marc905: 20200618100514fusteldeco
+pgterms:marc906: '1891'
+pgterms:marc907: UK
+production_note: Turgut Dincer and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: UK :Swan Sonnenschein,1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Origin of Property in Land: with an introductory chapter on the English
+  manor by W. J. Ashley'
+url: http://www.gutenberg.org/ebooks/67558
