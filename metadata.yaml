@@ -9,6 +9,9 @@ contributor:
     agent_name: Ashley, Margaret
     gutenberg_agent_id: '54319'
     url: http://www.gutenberg.org/2009/agents/54319
+covers:
+- cover_type: archival
+  image_path: 67558-h/images/cover.jpg
 creator:
   author:
     agent_name: Fustel de Coulanges
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Numa_Denis_Fustel_de_Coulanges
     - https://fr.wikipedia.org/wiki/Numa_Denis_Fustel_de_Coulanges
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67558#The-Origin-of-Property-in-Land-with-an-introductory-chapter-on-the-English-manor-by-W-J-Ashle_
 gutenberg_issued: '2022-03-04'
 identifiers:
   gutenberg: '67558'
